@@ -1,6 +1,6 @@
 # Netflix Movie Recommender System
 
-Using MapReduce to implement NETFLIX Movie Recommender System based on Item Collaborative Filtering Algorithm.
+Using <b>MapReduce</b> to implement NETFLIX Movie Recommender System based on <b>Item Collaborative Filtering<b> Algorithm.
 
 ## Description
 This project implements a Movie Recommender System just like NETFLIX does.<br/>Making use of MapReduce to handle multiplication, summation and normalization of very large matrices and optimize computation.<br/>
